@@ -16,3 +16,8 @@ Florida, Texas, and New York should be prioritized for EV infrastructure investm
 
 # What Would Be The Next Steps?
 Future improvements could include adding time‑series trends, charging‑station density metrics, or predictive modeling to forecast EV growth and infrastructure needs.
+
+
+# Dashboard Link
+https://public.tableau.com/app/profile/taya.bhavsar/viz/USElectricVehicleMarketShareAnalysis/USElectricVehicleMarketShareDashboard 
+
