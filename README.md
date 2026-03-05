@@ -76,6 +76,8 @@ I designed the Tableau dashboard to balance clarity, interactivity, and storytel
 # 🔍 Insight Validation
 After building the visuals, I validated the insights by cross‑checking trends across multiple charts and ensuring that calculated fields aligned with the underlying data. I refined the color palette, labels, and tooltips to improve readability and ensure the dashboard communicated insights clearly and accurately.
 
+
+
 # 🧠 Business Insights and Findings 
 EV adoption is highly uneven across the U.S., with California alone accounting for over one‑third of all EVs. Only a small group of states exceed the national average, while many rural states lag due to long travel distances and limited charging availability. Florida, Texas, and New York show high adoption but insufficient infrastructure, making them top priorities for investment.
 
