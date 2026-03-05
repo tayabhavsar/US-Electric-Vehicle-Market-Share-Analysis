@@ -19,11 +19,9 @@ The dashboard includes a KPI summary bar, EV leader–laggard comparisons, a nat
 4. Where should policymakers prioritize EV infrastructure investment based on adoption trends and gaps in support?
 
 # Why Does this Project Matter? 
-Electric vehicle adoption is accelerating across the United States, but growth is uneven and creates very different challenges for each state. Understanding these geographic disparities is essential for planning charging infrastructure, preparing the electrical grid, and guiding public and private investment. States with rapidly growing EV populations face increasing pressure on charging availability and grid capacity, while states with slower adoption may require targeted incentives, education, or infrastructure support to close the gap.
+Electric vehicle adoption is accelerating across the United States, but growth is highly uneven. These disparities have major implications for infrastructure planning, grid readiness, and transportation policy. States with rapidly increasing EV populations face rising demand for charging stations and electrical capacity, while states with slower adoption may require targeted incentives, education, or investment to support the transition.
 
-This analysis also highlights the role of alternative fuels—such as biodiesel, ethanol, and hydrogen—in shaping each state’s transition path. Some states rely heavily on these fuels, which can delay or complement EV adoption depending on policy direction. By comparing EV adoption with alternative fuel usage, the dashboard provides a more complete picture of the clean‑transportation landscape.
-
-The insights from this project support real‑world decisions for policymakers, utilities, automakers, and charging‑network operators. Identifying EV leaders and laggards helps determine where infrastructure investment is most urgent, where grid upgrades may be needed, and where market opportunities are emerging. As the U.S. moves toward large‑scale electrification, data‑driven planning like this becomes critical for ensuring an efficient, equitable, and sustainable transition.
+By comparing EV adoption with alternative fuel usage, this analysis provides a more complete view of each state’s clean‑transportation landscape. Understanding these patterns helps policymakers, utilities, automakers, and charging‑network operators identify where infrastructure investment is most urgent, where market opportunities are emerging, and where additional support may be needed. As the U.S. moves toward large‑scale electrification, data‑driven insights like these are essential for ensuring an efficient, equitable, and sustainable transition.
 
 # Project Walkthrough
 
