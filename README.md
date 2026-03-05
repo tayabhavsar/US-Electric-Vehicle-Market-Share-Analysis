@@ -19,7 +19,11 @@ The dashboard includes a KPI summary bar, EV leader–laggard comparisons, a nat
 4. Where should policymakers prioritize EV infrastructure investment based on adoption trends and gaps in support?
 
 # Why Does this Project Matter? 
-This project matters because EV adoption is reshaping transportation, energy, and infrastructure planning across the United States. Understanding where adoption is accelerating or lagging helps policymakers, utilities, and automakers make informed decisions about charging infrastructure, grid readiness, and market expansion. By comparing EV adoption with alternative fuel usage, this analysis highlights regional disparities and identifies where investment, incentives, or education may be needed to support the transition to cleaner transportation. The insights from this dashboard support real‑world decisions in sustainability planning, transportation policy, and mobility strategy.
+Electric vehicle adoption is accelerating across the United States, but growth is uneven and creates very different challenges for each state. Understanding these geographic disparities is essential for planning charging infrastructure, preparing the electrical grid, and guiding public and private investment. States with rapidly growing EV populations face increasing pressure on charging availability and grid capacity, while states with slower adoption may require targeted incentives, education, or infrastructure support to close the gap.
+
+This analysis also highlights the role of alternative fuels—such as biodiesel, ethanol, and hydrogen—in shaping each state’s transition path. Some states rely heavily on these fuels, which can delay or complement EV adoption depending on policy direction. By comparing EV adoption with alternative fuel usage, the dashboard provides a more complete picture of the clean‑transportation landscape.
+
+The insights from this project support real‑world decisions for policymakers, utilities, automakers, and charging‑network operators. Identifying EV leaders and laggards helps determine where infrastructure investment is most urgent, where grid upgrades may be needed, and where market opportunities are emerging. As the U.S. moves toward large‑scale electrification, data‑driven planning like this becomes critical for ensuring an efficient, equitable, and sustainable transition.
 
 # Project Walkthrough
 
