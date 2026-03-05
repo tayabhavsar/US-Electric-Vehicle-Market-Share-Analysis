@@ -60,22 +60,13 @@ By comparing EV adoption with alternative fuel usage, this analysis provides a m
 - Justify your recommendation with data (e.g., high EV adoption but low supporting fuel infrastructure).
 
 # How I Built The Dashboard 
+I began by reviewing the dataset to understand the structure, available fuel categories, and state‑level counts. I cleaned and standardized the data by checking for missing values, ensuring consistent state naming, and verifying that each fuel type was correctly categorized. I created calculated fields in Tableau to derive key metrics such as EV share and total alternative fuel usage.
 
+To identify adoption patterns, I compared EV counts against other fuel types and calculated relative differences across states. I used ranking logic to classify states into EV leaders and laggards, highlighting geographic disparities and surfacing states that may require additional infrastructure or policy support.
 
-# 🧹 Data Preparation
+I chose Tableau for this project because it supports intuitive geographic visualization and interactive exploration of state‑level trends. I designed the dashboard to guide users from a national overview into deeper comparisons, using maps, bar charts, and filters to make insights easy to interpret.
 
-I began by reviewing the dataset to understand the structure, available fuel categories, and state‑level counts. I cleaned and standardized the data by checking for missing values, ensuring consistent state naming, and verifying that each fuel type was correctly categorized. I then created calculated fields to derive key metrics such as EV share and total alternative fuel usage, which served as the foundation for the dashboard’s comparisons.
-
-# 📊 Analytical Approach
-
-To identify adoption patterns, I compared EV counts against other fuel types and calculated relative differences across states. I used ranking logic to classify states into EV leaders and laggards based on their adoption levels. This allowed me to highlight geographic disparities and surface states that may require additional infrastructure or policy support. I also analyzed the distribution of alternative fuels to understand how they influence each state’s transition toward electrification.
-
-# 🎨 Dashboard Design
-I designed the Tableau dashboard to balance clarity, interactivity, and storytelling. The map visualization provides a geographic overview of EV adoption, while the bar charts and leader–laggard comparison offer deeper insight into state‑level differences. I incorporated filters to allow users to explore specific fuel types and compare states dynamically. The layout was intentionally structured to guide viewers from high‑level patterns to detailed insights.
-
-# 🔍 Insight Validation
-After building the visuals, I validated the insights by cross‑checking trends across multiple charts and ensuring that calculated fields aligned with the underlying data. I refined the color palette, labels, and tooltips to improve readability and ensure the dashboard communicated insights clearly and accurately.
-
+After building the visuals, I validated insights by cross‑checking trends across multiple charts and ensuring calculated fields aligned with the underlying data. I refined the color palette, labels, and tooltips to improve clarity and ensure the dashboard communicated insights accurately.
 
 
 # 🧠 Business Insights and Findings 
